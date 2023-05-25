@@ -50,4 +50,6 @@ public class CalculatorTest {
         double expected = 4.0;
         assertEquals(expected, actual, 0.001);
     }
+
+
 }
