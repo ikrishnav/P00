@@ -27,7 +27,7 @@ public class CalculatorTest {
         assertEquals(expected, actual);
     }
 
-    @Test
+    @Test 
     public void testMultiply() {
         int a = 5;
         int b = 10;
